@@ -5,6 +5,7 @@ def my_cube(y):
     return(y**3)
 
 def percentage(z):
+    ''' This fun calculates %'''
     return (z/100)
 
 print(my_square(3))
